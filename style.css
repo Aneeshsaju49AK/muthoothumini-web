@@ -1,0 +1,682 @@
+#body {
+    margin: 0%;
+}
+
+/* navbar */
+.navbar {
+    width: 100%;
+    height: 90px;
+    background-color: gold;
+    margin: 0%;
+    margin-top: 0%;
+}
+
+.navbar-logo {
+    height: 80px;
+    width: 100px;
+    margin-left: 250px;
+}
+
+.navbar-brand {
+    font-size: larger;
+    font-weight: 300;
+    color: yellow;
+    margin-left: 10px;
+
+
+}
+
+.navbar-toggler {
+    width: 30px;
+    height: 30px;
+}
+
+#navbarSupportedContent {
+    margin-left: 180px;
+}
+
+.nav-item ul {
+    margin-left: 40px;
+
+}
+.smart-pay{
+    border-radius: 3px;
+    
+    
+}
+
+
+/* main div */
+.carousel-item {
+    background-image: url(images/images/Muthoottu-Mini_stands-by-you-always.jpg);
+
+    height: 830px;
+    object-fit: cover;
+}
+
+.main-second {
+    background-image: url(images/images/Muthoottu-mini-you-are-important.jpg);
+    height: 830px;
+    object-fit: cover;
+}
+
+.banner-head {
+    margin-top: 400px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    margin-left: 100px;
+}
+
+.banner-head-h3 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.banner-head-h2 {
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.main-logo-1 {
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    border-style: inset;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+.main-logo-2 {
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    border-style: inset;
+    border-color: black;
+    border-width: 1px;
+
+}
+
+.main-logo-3 {
+    background-color: yellow;
+    width: 60px;
+    height: 60px;
+    border-style: inset;
+    border-color: black;
+    border-width: 1px;
+}
+
+.logo-item {
+    margin-top: -520px;
+}
+
+.fa-brands {
+    color: rgb(27, 197, 55);
+    margin-top: 20px;
+    margin-left: 20px;
+    position: fixed;
+
+}
+
+.fa-solid {
+    color: rgb(61, 204, 18);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.instagram {
+    margin-left: 200px;
+    font-size: 15px;
+    color: thistle;
+    display: inline-block;
+}
+
+.facebook {
+    margin-left: 30px;
+    font-size: 15px;
+    color: thistle;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.linkedin {
+    margin-left: 20px;
+    font-size: 15px;
+    color: thistle;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.youtube {
+    margin-left: 30px;
+    font-size: 15px;
+    color: thistle;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.twitter {
+    margin-left: 40px;
+    font-size: 15px;
+    color: thistle;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.social-media {
+    margin-top: 250px;
+    margin-left: -60px;
+}
+
+/* services */
+.main-div {
+    background-image: linear-gradient(rgba(0.1, 0.1, 0, 0.1), rgba(0.4, 0.2, 0, 0.4)), url(images/images/istockphoto-848193282-612x612.jpg);
+    height: 350px;
+
+}
+
+.tittle-service {
+
+    height: 30%;
+    text-align: center;
+}
+
+.image-services {
+
+    height: 70%;
+}
+
+.services-h2 {
+    padding-top: 35px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #1B3280;
+}
+
+.services-h3 {
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(100, 105, 105);
+}
+
+.services-scroll {
+    width: 1200px;
+
+    margin-left: 290px;
+    padding: 65px 10px;
+
+}
+
+.services-scroll-01 {
+
+    padding: 90px 10px;
+    height: 70px;
+    margin-top: -70px;
+    margin-left: 140px;
+
+
+
+}
+
+.money-transfer {
+    display: inline-block;
+    width: 12%;
+    margin-left: 35px;
+    vertical-align: top;
+
+}
+
+.WEALTH-MANAGEMENT {
+    display: inline-block;
+    width: 12%;
+    margin-left: 7px;
+    vertical-align: top;
+}
+
+.Gold-coin {
+    display: inline-block;
+    width: 12%;
+    vertical-align: top;
+    margin-left: 7px;
+}
+
+.MICRO-FINANCE {
+    display: inline-block;
+    width: 12%;
+    margin-left: 7px;
+    vertical-align: top;
+}
+
+.INSURANCE {
+    display: inline-block;
+    width: 12%;
+    vertical-align: top;
+    margin-left: 7px;
+}
+
+.GOLD-LOAN {
+    display: inline-block;
+    width: 12%;
+    margin-left: 7px;
+    vertical-align: top;
+}
+
+.NCD {
+    display: inline-block;
+    width: 12%;
+    vertical-align: top;
+    margin-left: 7px;
+}
+
+.services-img {}
+
+.services-name {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* call-log */
+.call-log-main-div {
+    height: 220px;
+}
+
+/*  branch-locater */
+.branch-locater {
+    height: 650px;
+    background-image: linear-gradient(rgba(0.1, 0.1, 0, 0.1), rgba(0.4, 0.2, 0, 0.4)), url(images/images/worldmap.webp);
+    object-fit: fill;
+
+}
+
+.tittle-branch {
+
+    height: 20%;
+    text-align: center;
+    padding: 30px 0px;
+    color: #1B3280;
+
+
+}
+
+.tittle-branch-h3 {
+    margin-top: -40px;
+    height: 10%;
+    text-align: center;
+}
+
+.state-selector {
+    background-color: yellow;
+    display: inline-block;
+    height: 120px;
+    width: 600px;
+    margin-left: 200px;
+    margin-top: 120px;
+}
+
+.search-box {
+    width: 50%;
+    display: inline-block;
+
+
+}
+
+.input-group {
+    margin-left: 60px;
+
+}
+
+.state-selector {
+    border-radius: 5px;
+}
+
+.state-selector-h4 {
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.broder-yellow {
+    background-color: yellow;
+    width: 100%;
+    height: 10px;
+}
+
+.broder-blue {
+    background-color: blue;
+    width: 100%;
+    height: 10px;
+
+}
+
+/* we-are */
+.main-div-we {
+    padding: 110px;
+    height: 1050px;
+    text-align: center;
+    background-image: linear-gradient(rgba(0.1, 0.1, 0, 0.1), rgba(0.4, 0.2, 0, 0.4)), url(images/images/istockphoto-848193282-612x612.jpg);
+}
+
+.video-mini {
+    width: 700px;
+    margin-top: 50px;
+}
+
+.video {
+    width: 800px;
+    margin-left: 400px;
+}
+
+.text-mini {
+
+    width: 990px;
+    height: 240px;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.text-mini-01 {
+    height: 50%;
+
+}
+
+.text-mini-02 {
+    height: 50%;
+}
+
+.m-name {
+    width: 100px;
+    height: 110px;
+    display: inline-block;
+    margin-left: -10px;
+    margin-top: -50px;
+    background-color: yellow;
+
+}
+
+.status-mini {
+    width: 880px;
+    height: 80px;
+    display: inline-block;
+    text-align: left;
+    font-size: 20.4px;
+}
+
+.name-m {
+    font-weight: bold;
+    font-size: 110px;
+    color: #1B3280;
+
+}
+
+.text-mini-02 {
+    text-align: left;
+    font-size: 20.4px;
+    margin-bottom: 50px;
+}
+
+/* news-update */
+.main-div-news {
+    height: 550px;
+    background-image: linear-gradient(rgba(0.1, 0.1, 0, 0.1), rgba(0.4, 0.2, 0, 0.4)), url(images/images/istockphoto-848193282-612x612.jpg);
+}
+
+.head-news {
+    height: 20%;
+
+}
+
+.img-news {
+    height: 65%;
+
+}
+
+.img-news-footer {
+    height: 15%;
+
+}
+
+.img-div-01 {
+
+    display: inline-block;
+    width: 20%;
+    margin-left: 350px;
+    height: 100%;
+    vertical-align: top;
+
+}
+
+.img-div-02 {
+
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+
+}
+
+.img-div-03 {
+
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+
+
+}
+
+.card {
+    margin-left: 40px;
+    vertical-align: top;
+}
+
+.news-h4 {
+
+    display: inline-block;
+    margin-left: 390px;
+    margin-top: 20px;
+    width: 500px;
+    height: 90px;
+}
+
+.news-latest {
+    height: 30%;
+    color: #1B3280;
+
+
+}
+
+.news-latest-head {
+    height: 70%;
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 90px;
+    color: #1B3280;
+}
+
+/*testimonials  */
+.maindiv-testimonials {
+    height: 800px;
+    background-image: linear-gradient(rgba(0.1, 0.1, 0, 0.1), rgba(0.1, 0, 0, 0)), url(images/images/istockphoto-848193282-612x612.jpg);
+}
+
+.testimonials-img {
+
+    display: inline-block;
+    width: 70%;
+    height: 600px;
+    margin-left: 250px;
+
+}
+
+.testimonials-head {
+
+    height: 150px;
+    align-items: center;
+}
+
+.testimonials-h2 {
+
+    display: inline-block;
+    margin-top: 30px;
+    text-align: center;
+    width: 50%;
+    height: 70%;
+    margin-left: 450px;
+}
+
+.testimonials-img-01 {
+
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    margin-left: 3%;
+
+}
+
+.testimonials-img-02 {
+
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    margin-left: 3%;
+
+
+}
+
+.testimonials-img-03 {
+
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    margin-left: 3%;
+
+
+}
+
+.card-testi {
+    height: 100%;
+}
+
+/* fq */
+.main-div-fq {
+    height: 280px;
+
+}
+
+.fq-head {
+
+    text-align: center;
+    padding: 20px;
+
+}
+
+.btn-group {
+    display: grid;
+}
+
+.btn-group {
+    width: 1200px;
+    margin-left: 300px;
+}
+
+.btn-faq {
+    width: 1200px;
+    height: 50px;
+}
+
+.dropdown-item {
+    width: 1200px;
+    height: 50px;
+
+}
+
+.btn-faq-01 {
+    width: 1200px;
+    height: 50px;
+    margin-top: 70px;
+
+}
+
+/* footer */
+.main-div-footer {
+    height: 700px;
+    background-color: yellow;
+}
+
+.footer-sub-div-01 {
+
+    height: 20%;
+
+}
+
+.footer-sub-div-02 {
+
+    height: 60%;
+
+}
+
+.footer-sub-div-03 {
+
+
+    height: 20%;
+}
+
+.footer-status-01 {
+    width: 22%;
+
+    display: inline-block;
+    margin-left: 80px;
+    height: 100%;
+    vertical-align: top;
+
+}
+
+.footer-status-02 {
+    width: 22%;
+    margin-left: 20px;
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+
+}
+
+.footer-status-03 {
+    width: 22%;
+    margin-left: 20px;
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+
+}
+
+.footer-status-04 {
+    width: 22%;
+    margin-left: 0px;
+    display: inline-block;
+    height: 100%;
+    vertical-align: top;
+
+}
+
+.footer-logo {
+    height: 20%;
+    margin-left: -240px;
+}
+
+.footer-bio {
+    height: 30%;
+}
+
+.footer-media {
+    height: 10%;
+}
+
+.footer-news {
+    height: 10%;
+}
+
+.footer-csr {
+    height: 10%;
+}
+
+.footer-2-corporate-office {}
